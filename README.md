@@ -91,7 +91,7 @@ centered text to a file named `<original filename>_centered.txt` in the `output`
 
 # Further Practice
 
-This warmup can be completed mulitple times to increqse your comfort level with the material.
+This warmup can be completed multiple times to increase your comfort level with the material.
 To work on this from scratch, you can:
 
 1. Add an upstream remote that points to the original repo `git remote add upstream git@github.com:gSchool/text-centering.git`
