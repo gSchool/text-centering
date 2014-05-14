@@ -1,0 +1,3 @@
+class CenterFile
+
+end
