@@ -10,8 +10,8 @@ class TextCenter
       if line.length < length
         x = ((length-line.length)/2)
       end
-      (line.prepend("*"*x) && (line + ("*")*x))
-    end
+      (line.prepend(" "*x))
+    end.join("\n")
   end
 
   private
